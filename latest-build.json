@@ -3,7 +3,7 @@
     "file_name":  "VITTLOCK.dll",
     "configuration":  "Release",
     "platform":  "x64",
-    "size_bytes":  7000064,
-    "sha256":  "9D8BF4E766B2D6CB35CEFF9853AF536F254A23E3C0E61124981B317A1412EF33",
-    "built_at":  "2026-05-23 19:48:08"
+    "size_bytes":  7000576,
+    "sha256":  "EEEF2902DC1B733A837C1A333D7F475A3417DE0635B470DAFD183A4018BC38BA",
+    "built_at":  "2026-05-23 21:27:42"
 }
