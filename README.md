@@ -21,6 +21,6 @@ UC POST : https://www.unknowncheats.me/forum/deadlock/746684-vittlock-internal-l
 
 ## Community
 
-Join the Discord for updates, support, and community access:
+Join the Discord for LATEST BUILDS:
 
 https://discord.gg/fM6zDHjTTV
